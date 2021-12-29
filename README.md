@@ -12,3 +12,4 @@
 - skip turbolinks
 - webpacker 4.3.0 (installed by `rails new`) with stimulus 3.0.1
 - action mailbox 6.0.4.4
+- action text 6.0.4.4
